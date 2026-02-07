@@ -7,14 +7,14 @@
 }
 
 body {
-    background-color: #fdf2f8; /* Warna latar belakang pink sangat muda */
+    background-color: #fdf2f8; /* Warna latar belakang lucu dan pink */
     color: #333;               /* Warna teks utama */
     line-height: 1.6;          /* Memberi jarak antar baris teks */
 }
 
 /* --- 2. NAVIGASI (Sticky Header) --- */
 header {
-    background: #7c3aed;       /* Warna ungu solid */
+    background: #7c3aed;       /* Warna cute solid */
     color: white;
     padding: 1rem 5%;          /* Jarak dalam: atas-bawah 1rem, kiri-kanan 5% */
     position: sticky;          /* Membuat header tetap di atas saat scroll */
@@ -201,3 +201,4 @@ footer {
     text-align: center;
     font-size: 0.9rem;
 }
+
